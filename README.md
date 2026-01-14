@@ -70,3 +70,5 @@ Supports basic arithmetic, parentheses, and exponentiation with a user-friendly 
 ## 👤 Author
 
 **AlexIsNotInset**
+
+![Calculator Screenshot](Calculator.png)
